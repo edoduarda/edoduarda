@@ -31,10 +31,3 @@ Minha jornada na programação é guiada pela busca de soluções criativas e ef
 
 ---
 
-### 🏆 Conquistas do GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edoduarda&theme=dracula&column=7" alt="Troféus do GitHub de Eduarda"/>
-</p>
-
----
