@@ -10,3 +10,5 @@
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="JavaScript" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40" height="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-icon-svg-png-download-1174925.png?f=webp" alt="Node.js" width="40" height="40"/>
+
+[![Minhas Estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
