@@ -25,10 +25,8 @@ Minha jornada na programação é guiada pela busca de soluções criativas e ef
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edoduarda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Eduarda"/>
-  </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoduarda&layout=compact&theme=dracula" alt="Top Linguagens de Eduarda"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=edoduarda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=450" alt="Estatísticas do GitHub de Eduarda"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoduarda&layout=compact&theme=dracula&card_width=450" alt="Top Linguagens de Eduarda"/>
 </p>
 
 ---
