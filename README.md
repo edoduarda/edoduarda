@@ -1,16 +1,12 @@
-## Hi there 👋
+# Olá, eu sou Eduarda 👋
 
-<!--
-**edoduarda/edoduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando em [Nome do Projeto Pessoal].
+- 🌱 Estou aprendendo [Tecnologia que você está estudando].
+- 🤔 Procuro ajuda com [Tópico que você tem dificuldade].
+- 📫 Como me encontrar: [Seu email ou link do LinkedIn].
+- 😄 Pronomes: Ele/Dele ou Ela/Dela.
+  ## 🛠️ Minhas Habilidades
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="URL_DO_ICONE_DO_JAVASCRIPT" alt="JavaScript" width="40" height="40"/>
+<img src="URL_DO_ICONE_DO_REACT" alt="React" width="40" height="40"/>
+<img src="URL_DO_ICONE_DO_NODE" alt="Node.js" width="40" height="40"/>
